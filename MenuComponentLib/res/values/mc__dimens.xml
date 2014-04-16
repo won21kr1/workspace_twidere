@@ -1,0 +1,5 @@
+<resources>
+
+	<dimen name="mc__popup_window_width">240dp</dimen>
+
+</resources>

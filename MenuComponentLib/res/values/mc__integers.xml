@@ -1,0 +1,5 @@
+<resources>
+
+	<integer name="mc__max_action_buttons">2</integer>
+
+</resources>

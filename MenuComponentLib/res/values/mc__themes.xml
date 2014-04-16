@@ -1,0 +1,17 @@
+<resources>
+
+	<style name="Theme.ListPopupWindowCompat.Sample" parent="android:Theme">
+		<item name="actionButtonCompatStyle">@style/Widget.ListPopupWindowCompat.ActionButton</item>
+		<item name="actionOverflowButtonCompatStyle">@style/Widget.ListPopupWindowCompat.ActionButton.Overflow</item>
+		<item name="dropDownListViewCompatStyle">@style/Widget.ListPopupWindowCompat.ListView.DropDown</item>
+		<item name="listPopupWindowCompatStyle">@style/Widget.ListPopupWindowCompat</item>
+	</style>
+
+	<style name="Theme.ListPopupWindowCompat.Light.Sample" parent="android:Theme.Light">
+		<item name="actionButtonCompatStyle">@style/Widget.ListPopupWindowCompat.Light.ActionButton</item>
+		<item name="actionOverflowButtonCompatStyle">@style/Widget.ListPopupWindowCompat.Light.ActionButton.Overflow</item>
+		<item name="dropDownListViewCompatStyle">@style/Widget.ListPopupWindowCompat.Light.ListView.DropDown</item>
+		<item name="listPopupWindowCompatStyle">@style/Widget.ListPopupWindowCompat.Light</item>
+	</style>
+
+</resources>
